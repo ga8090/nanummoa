@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>유연우 테스트</title>
+<title>유연우</title>
 </head>
 <body>
 <h3>유연우</h3>

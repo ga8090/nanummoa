@@ -7,6 +7,6 @@
 <title>유연우</title>
 </head>
 <body>
-<h1>유연우</h1>
+<h3>유연우</h3>
 </body>
 </html>
